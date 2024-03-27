@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Luked20
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning the basic of everthing 
-- 💞️ I’m looking to collaborate on more experienced programmers
+- 👋 Hi, I’m my name is lucas
+- 👀 I’m interested in coding currently studying software engineering 
+- 🌱 Basics in python/javascript/hmtl/css/sqldeveloper 
+- 💞️ Creating projects 
 
 - 📫 How to reach me = hwk#5451 (my discord)
 
