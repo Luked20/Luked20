@@ -1,6 +1,6 @@
 - 👋 Hi, I’m my name is lucas
 - 👀 I’m interested in coding currently studying software engineering 
-- 🌱 Basics in python/javascript/hmtl/css/sqldeveloper 
+
 - 💞️ Creating projects 
 
 - 📫 How to reach me = hwk#5451 (my discord)
