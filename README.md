@@ -30,6 +30,10 @@ Sou um **Engenheiro de Software** apaixonado por tecnologia, com foco em **desen
 - [**Sudoku Game**](https://github.com/Luked20/Sudoku-Game): Jogo de Sudoku desenvolvido com foco em lógica e design interativo.
 - [**Spam Detector**](https://github.com/Luked20/Spam-detector): Aplicação de machine learning para detecção de mensagens de spam.
 - [**Analisador de Algoritmos**](https://github.com/Luked20/Analisador-de-Algoritmos): Ferramenta para análise e comparação de algoritmos de ordenação.
+- [**Social App**](https://github.com/Luked20/Social-App): Um clone simplificado de rede social com recursos básicos.
+- [**Map Generator**](https://github.com/Luked20/Map-Generator): Sistema avançado de geração procedural de mapas para jogos.
+- [**Track App**](https://github.com/Luked20/Track-App): Aplicativo para desenvolvimento e acompanhamento de hábitos diários.
+- [**Matchmaking**](https://github.com/Luked20/Matchmaking): Sistema de matchmaking para jogos baseado em inteligência artificial.
 
 ## 🌐 Conecte-se Comigo
 
